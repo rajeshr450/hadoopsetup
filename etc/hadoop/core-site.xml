@@ -7,6 +7,6 @@
 </property>
 <property>
   <name>hadoop.tmp.dir</name>
-  <value>/home/orienit/spark/hadoop2data/tmp</value>
+  <value>/home/rajesh/hadoop2data/tmp</value>
 </property>
 </configuration>
