@@ -7,11 +7,11 @@
  </property>
  <property>
    <name>dfs.namenode.name.dir</name>
-   <value>/home/orienit/spark/hadoop2data/dfs/name</value>
+   <value>/home/rajesh/hadoop2data/dfs/name</value>
  </property>
  <property>
    <name>dfs.datanode.data.dir</name>
-   <value>/home/orienit/spark/hadoop2data/dfs/data</value>
+   <value>/home/rajesh/hadoop2data/dfs/data</value>
  </property>
 </configuration>
 
